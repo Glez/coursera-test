@@ -1,9 +1,19 @@
-h1{
-	text-align: center;
+#header-nav {
+  background-color: #A4A4A4;
+  border-radius: 0;
+  border: 0;
 }
-h2{
-	text-align: center;
-}
+
  #main{
 	background-color: #A4A4A4;
+	margin: 10px;
+	padding: 10px;
+}
+
+.navbar-brand{
+  color: #FFFFFF;
+}
+
+li{
+	text-align: center;
 }
